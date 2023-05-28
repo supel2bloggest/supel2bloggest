@@ -1,16 +1,13 @@
 ### Hi there 👋
+Hi I'm a javascript lover.
 
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently skill ...
+- 🌱 My currently skill ...
   - NextJS (React)
   - NestJS (API Framework for javascript)
   - Golang (Fast API)
   - C# (.NET, .NET Core)
   - Javascript (Base)
-  - Css Framework
+  - Css Framework (Tailwind, Css, Sass)
 
-- 📫 How to reach me: thanachai.akt@gmail.com
-
-
+- 📫 How to reach me:
+  - thanachai.akt@gmail.com
