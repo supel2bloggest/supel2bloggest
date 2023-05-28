@@ -3,7 +3,7 @@ Hi I'm a javascript lover.
 
 - 🌱 My currently skill ...
   - NextJS (React)
-  - NestJS (API Framework for javascript)
+  - NestJS (API Framework for Typescript)
   - Golang (Fast API)
   - C# (.NET, .NET Core)
   - Javascript (Base)
